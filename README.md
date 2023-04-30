@@ -1,4 +1,5 @@
-Online TicTacToe game using a multithreaded server that listens for client connections and puts two clients into a game with one another.
+# Online TicTacToe game using a multithreaded server that listens for client connections and puts two clients into a game with one another.
+
 Author: Parth Patel
 
 Files included in repo
