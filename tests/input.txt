@@ -1,0 +1,1 @@
+PLAY|10|Joe Smith|MOVE|6|X|2,2|RSGN|0|DRAW|2|S|
