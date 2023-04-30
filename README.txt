@@ -1,7 +1,6 @@
-Parth Patel - NetID: pp847
-Ernie Oscar Cangas - NetID: egc48
+Parth Patel
 
-Files included in p3.tar
+Files included in repo
 	1. ttts.c
 		- main server file which contains the source code for the tictactoe online server.
 	2. protocol.c
@@ -10,10 +9,7 @@ Files included in p3.tar
 		- protocol header file, stores definitions of structs and the function headers.
 	3. Makefile
 		- a make file used to make it easy to compile run and test the game.
-	4. clients for testing
-		- ttt.c
-		- ttt1.c
-		- ttt2.c
+	4. test files
 
 ttts Design:
     Main functions:
